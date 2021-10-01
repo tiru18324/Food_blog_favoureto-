@@ -1,0 +1,81 @@
+
+h1{
+    color: green;
+} 
+.header{
+    width: 1140px;  
+    margin: 20px auto 10px auto; 
+    padding: 30px;
+    color:whitesmoke;   
+    font-family: serif;
+    text-align:center;
+    font-size: 60px; 
+    background-image: url('footerbg.jpg'); 
+    background-size: cover;
+    
+
+}  
+.container{
+    width: 1140px; 
+    margin: 20px auto 10px auto;  
+    position: relative;
+} 
+.article{
+    width: 68%; 
+    display: inline-block;
+    float: left; 
+    padding-right: 6%;
+}
+.article-image{
+    height:auto; 
+    width: 100%;
+}
+.article-text{
+    text-align: justify; 
+    margin-bottom: 20px 0 0; 
+    line-height: 25px;
+}
+.other-posts{
+    width: 25%; 
+    display: inline-block;  
+    margin-top: 250px; 
+    
+    
+}
+.other{ 
+    color: green;
+} 
+.other-posts img{
+    width: 300px;
+    height: 200px; 
+    margin-bottom: 10px; 
+
+} 
+.article img{
+    width: 600px;
+}
+.rohith{
+    width: 200px; 
+    border: 10px pink; 
+    border-radius: 100%; 
+    border-style: groove;
+    
+}
+.clear-fix{
+    content: ""; 
+    display: table; 
+    clear:both;
+} 
+.social-link{ 
+    width: 4%; 
+    height: 37px; 
+    padding-left: 10px; 
+    padding-top: 10px;
+    margin-left: 1200px;
+
+} 
+.social-media{
+    position:fixed; 
+    
+}
+
